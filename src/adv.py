@@ -1,5 +1,6 @@
 from room import Room
 
+# I'm here!
 # Declare all the rooms
 
 room = {
